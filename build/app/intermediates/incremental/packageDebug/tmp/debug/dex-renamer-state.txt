@@ -1,0 +1,4 @@
+#Wed Jun 16 12:42:39 IST 2021
+base.0=C\:\\Users\\Mubee\\OneDrive\\Desktop\\Telegram-main\\Telegram\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
